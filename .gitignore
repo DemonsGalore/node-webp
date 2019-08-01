@@ -1,3 +1,8 @@
+package-lock.json
+originals/jpg/*
+originals/png/*
+webp/*
+
 # Logs
 logs
 *.log
